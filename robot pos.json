@@ -1,0 +1,13 @@
+{
+"img wh": [2048, 1536],
+    "robot": {
+        "1": {
+            "position": [141, 17, 150, -20],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 1, 1],
+                "overlay_xy": [0, 0],
+                "img": null
+            }
+        }
+    }
+}
